@@ -9,7 +9,7 @@ It demonstrates how to:
 This project was created as part of a learning exercise on **Express.js**, **API development**, and **JSON file handling** in Node.js.  
 
 ---
-## 📬 Postman Collection
+## 📬 Postman Collection and API endpoint documentation
 
 You can explore and test the API using the Postman Collection below:
 
